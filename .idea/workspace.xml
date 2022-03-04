@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62e33d54-a750-4a8a-a4f0-625d397a7432" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lopdf/src/content.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../lopdf/src/content.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lopdf/src/document.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../lopdf/src/document.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lopdf/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../lopdf/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lopdf/src/reader.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../lopdf/src/reader.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lopdf/src/writer.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../lopdf/src/writer.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust-openssl/openssl-sys/src/cms.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust-openssl/openssl-sys/src/cms.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust-openssl/openssl-sys/src/object.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust-openssl/openssl-sys/src/object.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust-openssl/openssl-sys/src/x509.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust-openssl/openssl-sys/src/x509.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust-openssl/openssl/src/cms.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust-openssl/openssl/src/cms.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust-openssl/openssl/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust-openssl/openssl/src/lib.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="w8hhakrm" />
+  </component>
+  <component name="ProjectId" id="25upeXIG2o3l1P4eQlfCL1TT7e6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rust-openssl" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62e33d54-a750-4a8a-a4f0-625d397a7432" name="Changes" comment="" />
+      <created>1646386927431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646386927431</updated>
+      <workItem from="1646386931907" duration="22357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

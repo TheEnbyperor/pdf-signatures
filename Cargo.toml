@@ -1,0 +1,15 @@
+[package]
+name = "pdf-signatures"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lopdf = { path = "../lopdf" }
+cryptographic-message-syntax = "0.7"
+x509-certificate = "0.6"
+bcder = "0.6"
+openssl = { path = "../rust-openssl/openssl" }
+openssl-sys = { path = "../rust-openssl/openssl-sys" }
+hex = "0.4"
+libc = "0.2"
+foreign-types-shared = "0.1"
